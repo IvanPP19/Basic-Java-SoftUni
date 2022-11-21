@@ -1,2 +1,2 @@
 # Basic-Java-SoftUni
-All labs, exercises and exam in Java Basic SoftUni
+All labs, exercises in Java Basic SoftUni
